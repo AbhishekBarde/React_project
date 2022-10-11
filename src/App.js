@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import LoginComponent from './components/LoginComponent/LoginComponent';
 import MainHeader from './components/MainHeader/MainHeader';
-// import Home from './components/Home/Home'
+import Home from './components/Home/Home'
 import ExpensePage from './ExpensePage';
 // import ExpensePage from './pages/ExpensePage/ExpensePage';
 // import { useSelector } from 'react-redux';
