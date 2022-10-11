@@ -5,7 +5,7 @@ import classes from './Home.module.css'
 
 const Home = () => {
 
-    const log = useSelector((state) => state.auth.isAuthenticated);
+    const clog = useSelector((state) => state.auth.isAuthenticated);
     
 
     return (<>
